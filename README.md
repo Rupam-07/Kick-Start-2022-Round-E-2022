@@ -1,1 +1,1 @@
-# Kick-Start-2022-Round-E-2022
+# Kick-Start-2022-Round-E
