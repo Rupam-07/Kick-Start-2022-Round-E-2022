@@ -1,6 +1,6 @@
 import sys
 
-# B..J.B..J
+
 def solve():
     n = int(sys.stdin.readline())
     print((n + 4) // 5)
