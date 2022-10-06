@@ -1,6 +1,6 @@
 import sys
 
-
+#yoo yoo python
 def solve():
     inp = sys.stdin.readline
     N, P, M, Ar, Ac = map(int, inp().split())
